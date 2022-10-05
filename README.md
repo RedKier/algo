@@ -22,7 +22,7 @@ General study
 >
 > $$O(500) -> O(1)$$
 >
-> $$O(12n^2) -> O(n2)$$
+> $$O(12n^2) -> O(n^2)$$
 
 # Time Complexity
 
